@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: KBPTEST
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: KCP
+Implementation-Vendor-Id: com.yellotech.TestingSpringBoot
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://spring.io/projects/spring-boot/TestingSpri
+ ngBoot
+Created-By: Maven Integration for Eclipse
+
